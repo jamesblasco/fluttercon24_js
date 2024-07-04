@@ -1,0 +1,4 @@
+{
+    "livePreview.defaultPreviewPath": "/build/web/index.html",
+    "dart.flutterSdkPath": "~/fvm/versions/stable"
+}
